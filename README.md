@@ -2,13 +2,16 @@
   <img height="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Coding animation"/>
 </div>
 
----
 
-## 👋 Hi there!
-I'm **Ahmad**, a future application development specialist with a passion for **modern web development** 🚀.  
+---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there!+I'm+Ahmad)
+
+A future Web Developer specialist with a passion for **modern web development** 🚀.  
 Always curious, always learning.
 
 ---
+
+
 
 ###
 
@@ -64,3 +67,8 @@ Always curious, always learning.
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmad9024&style=flat-square&color=blue" alt="Visitors count"/>
+</p>
+
